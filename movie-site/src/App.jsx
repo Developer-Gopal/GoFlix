@@ -2,7 +2,7 @@ import React from "react";
 import { BrowserRouter } from "react-router-dom";
 import { Routes, Route } from "react-router-dom";
 import NavBar from "./components/Header";
-import Home from "./routes/home";
+import Home from "./routes/Home";
 import TvShows from "./routes/TvShows";
 import Movies from "./routes/Movies";
 import NewPopular from "./routes/TopRated";
